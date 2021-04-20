@@ -1,0 +1,57 @@
+[{
+        "maskapai": "Adam Air",
+        "asalPenerbangan": "Soekarno - Hatta (CGK)",
+        "tujuanPenerbangan": "Sultan Iskandarmuda (BTJ)",
+        "hargaTiket": "2000000",
+        "pajak": "120000"
+    },
+    {
+        "maskapai": "Batik",
+        "asalPenerbangan": "Husein Sastranegara (BDO)",
+        "tujuanPenerbangan": "Sultan Iskandarmuda (BTJ)",
+        "hargaTiket": "100000",
+        "pajak": "100000"
+    },
+    {
+        "maskapai": "Batik",
+        "asalPenerbangan": "Soekarno - Hatta (CGK)",
+        "tujuanPenerbangan": "Hasanuddin (UPG)",
+        "hargaTiket": "890000",
+        "pajak": "120000"
+    },
+    {
+        "maskapai": "Citilink",
+        "asalPenerbangan": "Soekarno - Hatta (CGK)",
+        "tujuanPenerbangan": "Sultan Iskandarmuda (BTJ)",
+        "hargaTiket": "89000",
+        "pajak": "120000"
+    },
+    {
+        "maskapai": "Garuda Indonesia",
+        "asalPenerbangan": "Soekarno - Hatta (CGK)",
+        "tujuanPenerbangan": "Ngurah Rai (DPS)",
+        "hargaTiket": "1500000",
+        "pajak": "130000"
+    },
+    {
+        "maskapai": "Lion Air",
+        "asalPenerbangan": "Husein Sastranegara (BDO)",
+        "tujuanPenerbangan": "Hasanuddin (UPG)",
+        "hargaTiket": "1800000",
+        "pajak": "100000"
+    },
+    {
+        "maskapai": "Sriwijaya Air",
+        "asalPenerbangan": "Abdul Rachman Saleh (MLG)",
+        "tujuanPenerbangan": "Ngurah Rai (DPS)",
+        "hargaTiket": "1000000",
+        "pajak": "120000"
+    },
+    {
+        "maskapai": "Susi Air",
+        "asalPenerbangan": "Husein Sastranegara (BDO)",
+        "tujuanPenerbangan": "Inanwatan (INX)",
+        "hargaTiket": "20000",
+        "pajak": "120000"
+    }
+]
